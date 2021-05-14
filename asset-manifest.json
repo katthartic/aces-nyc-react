@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aces-nyc-react/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/aces-nyc-react/static/js/main.b3c11d49.chunk.js",
+    "main.js.map": "/aces-nyc-react/static/js/main.b3c11d49.chunk.js.map",
+    "runtime-main.js": "/aces-nyc-react/static/js/runtime-main.05d86145.js",
+    "runtime-main.js.map": "/aces-nyc-react/static/js/runtime-main.05d86145.js.map",
+    "static/js/2.4cb88e63.chunk.js": "/aces-nyc-react/static/js/2.4cb88e63.chunk.js",
+    "static/js/2.4cb88e63.chunk.js.map": "/aces-nyc-react/static/js/2.4cb88e63.chunk.js.map",
+    "static/js/3.4c3bdaad.chunk.js": "/aces-nyc-react/static/js/3.4c3bdaad.chunk.js",
+    "static/js/3.4c3bdaad.chunk.js.map": "/aces-nyc-react/static/js/3.4c3bdaad.chunk.js.map",
+    "index.html": "/aces-nyc-react/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/aces-nyc-react/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.4cb88e63.chunk.js.LICENSE.txt": "/aces-nyc-react/static/js/2.4cb88e63.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/aces-nyc-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05d86145.js",
+    "static/js/2.4cb88e63.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.b3c11d49.chunk.js"
+  ]
+}
